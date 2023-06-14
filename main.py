@@ -887,7 +887,7 @@ def title():
     stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"╚═╝┴ ┴┴ ┴└─┘┴└─┴ ┴                \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Sakura  "+Fore.LIGHTCYAN_EX  +"       ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The Main Screen Of Sakura  "+Fore.LIGHTCYAN_EX  +"     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands    "+Fore.LIGHTCYAN_EX +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          F U C K M E N A R U T O   "+Fore.LIGHTCYAN_EX +"                ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╚═════════════════════════════════════════════════════╝\n")
